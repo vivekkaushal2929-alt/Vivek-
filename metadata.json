@@ -1,0 +1,5 @@
+{
+  "name": "ExcelCraft",
+  "description": "A professional tool to create, edit, and export Excel (XLSX) files directly in your browser.",
+  "requestFramePermissions": []
+}
